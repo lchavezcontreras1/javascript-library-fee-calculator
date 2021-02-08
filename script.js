@@ -3,7 +3,7 @@ $(document).ready(
     function (){
         //find the button with jquery
         // assign function totalLibraryFee to run when the button is clicked
-        $("button").click(totalLibraryFee);
+        $("button").click(p#totalfee);
     }
 );
 // let lateDays = parseInt(prompt("How many late days have passed?"));
